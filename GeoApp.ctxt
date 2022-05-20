@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GeoApp
+comment0.text=\r\n\ Client\ App\r\n\ \r\n
+comment1.params=
+comment1.target=GeoApp()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GPSApp\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ process()
+comment4.params=gs
+comment4.target=java.lang.String\ buildDisplay(GeoSet)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ run()
+numComments=7

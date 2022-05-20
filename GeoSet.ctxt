@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GeoSet
+comment0.text=\r\n\ The\ \ class\ GeoSet\ is\ to\ make\ caculation\ using\ using\ arrays\ and\ location.\r\n\r\n\ @author\ (Souleymane\ Barry)\r\n\ @version\ (Homework\ 5;\ 05/17/2022)\r\n
+comment1.params=fileName
+comment1.target=GeoSet(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GeoSet\r\n\ @param\ fileName\ type\ string\ \r\n\ @return\r\n
+comment2.params=
+comment2.target=int\ getCount()
+comment2.text=\r\n\ getCount\ an\ accessor\ to\ to\ get\ the\ location\ number\r\n\r\n\ @param\ \r\n\ @return\ \ \ \ count\r\n
+comment3.params=
+comment3.target=double\ findMinDistance()
+comment3.text=\r\n\ findMinDist()\ a\ method\ that\ calculate\ the\ minimum\ distance\ between\ the\ \ locations\r\n\r\n\ @param\ \ \r\n\ @return\ \ \ minDistance\r\n
+comment4.params=name
+comment4.target=Location\ find(java.lang.String)
+comment4.text=\r\n\ find()\ find\ a\ location\ using\ the\ location\ name\r\n\r\n\ @param\ \ name\ type\ string\r\n\ @return\ \ \ \ local\ the\ coordinates\ of\ the\ of\ the\ name\r\n
+comment5.params=
+comment5.target=Location[]\ farthest()
+comment5.text=\r\n\ farthest()\ to\ find\ the\ two\ farthest\ distance\ in\ the\ location\ list\r\n\r\n\ @param\ \r\n\ @return\ \ \ the\ two\ farthest\ locations\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\ method\ to\ read\ the\ info\ or\ result\r\n\r\n\ @param\ \r\n\ @return\ \ \ \ its\ return\ a\ string\ to\ read\ the\ info\r\n
+numComments=7
